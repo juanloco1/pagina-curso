@@ -66,6 +66,7 @@ h2{
 .b-footer{
     text-align: center;
     color: #999;
+    margin-top: 30px;
 }
 .enca{
     background: rgba(122, 221, 255, 0.8);
@@ -102,12 +103,13 @@ h2{
     max-width: 1180px;
     margin: auto;
     overflow: hidden;
+    margin-top: -30px;
 }
 .logo{
     color: #fff;
     font-size: 40px;
     font-family: Berlin Sans FB;
-    line-height: 50px;
+    line-height: 30px;
     float: left;
 }
 nav{
@@ -173,7 +175,7 @@ nav a:hover{
     flex-wrap: wrap;
     border-radius:3px;
     text-align: center;
-    
+
 }
 
 .contenedor-imagenes .imagen{
